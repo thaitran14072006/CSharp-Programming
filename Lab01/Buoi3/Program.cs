@@ -5,6 +5,7 @@ class Programe
 {
     public static void Main()
     {
+        bai01.xuly();
         bai05.xuly();
     }
 }
