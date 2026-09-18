@@ -7,5 +7,6 @@ class Programe
     {
         bai01.xuly();
         bai05.xuly();
+        bai03.xuly();
     }
 }
