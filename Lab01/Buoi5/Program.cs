@@ -5,8 +5,10 @@ public class Program
 {
     public static void Main()
     {
+        bai01.xuly();
         bai03.xuly();
         bai05.xuly();
+        
     }
 }
 
