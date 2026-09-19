@@ -8,6 +8,9 @@ public class Program
     {
         bai02.xuly();
         bai04.xuly();
+        bai01.xuly();
+        bai05.xuly();
+        
     }
 }
 
