@@ -8,5 +8,6 @@ class Program
         bai01.xuly();
         bai03.xuly();
         bai04.xuly();
+        bai05.xuly();
     }
 }
